@@ -1,4 +1,4 @@
-/* while loop practice */
+/* basic main c file from codeblocks */
 #include <stdio.h>
 
 int main()
